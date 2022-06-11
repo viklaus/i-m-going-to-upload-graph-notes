@@ -24,6 +24,8 @@ void graph::DFS(int v)
             DFS(*it);
     }
 }
+// hello love
+// i m helpless
 int main()
 {
     graph g;
